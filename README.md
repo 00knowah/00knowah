@@ -1,4 +1,5 @@
 ## Hi, I'm Noah!
+https://www.linkedin.com/in/noah-dagmawi-98864a2a8/
 👩🏻‍🎓 Studying Computer Science at San Diego State University
 
 💭 Currently learning about Machine Learning and Artificially Intelligence!
