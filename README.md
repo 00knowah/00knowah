@@ -1,5 +1,6 @@
 ## Hi, I'm Noah!
 👩🏻‍🎓 Studying Computer Science at San Diego State University
+
 💭 Currently learning about Machine Learning and Artificially Intelligence!
 
 
